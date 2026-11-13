@@ -1,0 +1,6 @@
+[project]
+name = "personal-agent"
+version = "0.1.0"
+description = "Local-first personal agent with approval gates and recoverable actions"
+requires-python = ">=3.14"
+dependencies = []
